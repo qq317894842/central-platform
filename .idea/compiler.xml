@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="account-service" />
+        <module name="back-web" />
+        <module name="business-service" />
+        <module name="code-generator" />
+        <module name="dubbo-demo" />
+        <module name="file-center" />
+        <module name="job-admin" />
+        <module name="job-core" />
+        <module name="job-executor-samples" />
+        <module name="log-center" />
+        <module name="order-service" />
+        <module name="rocketmq-consume" />
+        <module name="rocketmq-produce" />
+        <module name="rocketmq-transactional" />
+        <module name="sc-admin" />
+        <module name="sc-gateway" />
+        <module name="search-client" />
+        <module name="search-server" />
+        <module name="seata-common-starter" />
+        <module name="sharding-jdbc-demo" />
+        <module name="ss-sso" />
+        <module name="storage-service" />
+        <module name="txlcn-demo-common" />
+        <module name="txlcn-demo-spring-service-a" />
+        <module name="txlcn-demo-spring-service-b" />
+        <module name="txlcn-demo-spring-service-c" />
+        <module name="txlcn-tm" />
+        <module name="user-center" />
+        <module name="web-sso" />
+        <module name="zlt-auth-client-spring-boot-starter" />
+        <module name="zlt-common-core" />
+        <module name="zlt-common-spring-boot-starter" />
+        <module name="zlt-config" />
+        <module name="zlt-db-spring-boot-starter" />
+        <module name="zlt-elasticsearch-spring-boot-starter" />
+        <module name="zlt-log-spring-boot-starter" />
+        <module name="zlt-redis-spring-boot-starter" />
+        <module name="zlt-ribbon-spring-boot-starter" />
+        <module name="zlt-sentinel-spring-boot-starter" />
+        <module name="zlt-swagger2-spring-boot-starter" />
+        <module name="zlt-uaa" />
+        <module name="zuul-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account-service" target="1.8" />
+      <module name="back-web" target="1.8" />
+      <module name="business-service" target="1.8" />
+      <module name="central-platform" target="1.8" />
+      <module name="code-generator" target="1.8" />
+      <module name="dubbo-demo" target="1.8" />
+      <module name="file-center" target="1.8" />
+      <module name="job-admin" target="1.8" />
+      <module name="job-core" target="1.8" />
+      <module name="job-executor-samples" target="1.8" />
+      <module name="log-center" target="1.8" />
+      <module name="order-service" target="1.8" />
+      <module name="rocketmq-consume" target="1.8" />
+      <module name="rocketmq-demo" target="1.8" />
+      <module name="rocketmq-produce" target="1.8" />
+      <module name="rocketmq-transactional" target="1.8" />
+      <module name="sc-admin" target="1.8" />
+      <module name="sc-gateway" target="1.8" />
+      <module name="search-center" target="1.8" />
+      <module name="search-client" target="1.8" />
+      <module name="search-server" target="1.8" />
+      <module name="seata-common-starter" target="1.8" />
+      <module name="seata-demo" target="1.8" />
+      <module name="sharding-jdbc-demo" target="1.8" />
+      <module name="ss-sso" target="1.8" />
+      <module name="sso-demo" target="1.8" />
+      <module name="storage-service" target="1.8" />
+      <module name="txlcn-demo" target="1.8" />
+      <module name="txlcn-demo-common" target="1.8" />
+      <module name="txlcn-demo-spring-service-a" target="1.8" />
+      <module name="txlcn-demo-spring-service-b" target="1.8" />
+      <module name="txlcn-demo-spring-service-c" target="1.8" />
+      <module name="txlcn-tm" target="1.8" />
+      <module name="user-center" target="1.8" />
+      <module name="web-sso" target="1.8" />
+      <module name="zlt-auth-client-spring-boot-starter" target="1.8" />
+      <module name="zlt-business" target="1.8" />
+      <module name="zlt-common-core" target="1.8" />
+      <module name="zlt-common-spring-boot-starter" target="1.8" />
+      <module name="zlt-commons" target="1.8" />
+      <module name="zlt-config" target="1.8" />
+      <module name="zlt-db-spring-boot-starter" target="1.8" />
+      <module name="zlt-demo" target="1.8" />
+      <module name="zlt-elasticsearch-spring-boot-starter" target="1.8" />
+      <module name="zlt-gateway" target="1.8" />
+      <module name="zlt-job" target="1.8" />
+      <module name="zlt-log-spring-boot-starter" target="1.8" />
+      <module name="zlt-monitor" target="1.8" />
+      <module name="zlt-redis-spring-boot-starter" target="1.8" />
+      <module name="zlt-ribbon-spring-boot-starter" target="1.8" />
+      <module name="zlt-sentinel-spring-boot-starter" target="1.8" />
+      <module name="zlt-swagger2-spring-boot-starter" target="1.8" />
+      <module name="zlt-transaction" target="1.8" />
+      <module name="zlt-uaa" target="1.8" />
+      <module name="zlt-web" target="1.8" />
+      <module name="zuul-gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

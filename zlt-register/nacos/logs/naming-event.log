@@ -1,0 +1,40 @@
+2021-03-18 10:27:33,882 INFO DEFAULT_GROUP@@uaa-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.66.1:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 10:27:33,885 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uaa-server, ips: 192.168.66.1:8000_true,
+
+2021-03-18 10:30:17,782 INFO {POS} {IP-DISABLED} valid: 192.168.66.1:8000@DEFAULT@DEFAULT_GROUP@@uaa-server, region: unknown, msg: client timeout after 15000, last beat: 1616034598238
+
+2021-03-18 10:30:34,352 INFO DEFAULT_GROUP@@uaa-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.66.1:8000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 10:30:34,352 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uaa-server, ips: 
+
+2021-03-18 10:30:54,548 INFO DEFAULT_GROUP@@code-generator {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.66.1:7300:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 10:30:54,562 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@code-generator, ips: 192.168.66.1:7300_true,
+
+2021-03-18 10:48:29,913 INFO {POS} {IP-DISABLED} valid: 192.168.66.1:7300@DEFAULT@DEFAULT_GROUP@@code-generator, region: unknown, msg: client timeout after 15000, last beat: 1616035693620
+
+2021-03-18 10:48:45,243 INFO DEFAULT_GROUP@@code-generator {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.66.1:7300:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 10:48:45,243 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@code-generator, ips: 
+
+2021-03-18 10:49:03,113 INFO DEFAULT_GROUP@@code-generator {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.66.1:7300:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 10:49:03,113 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@code-generator, ips: 192.168.66.1:7300_true,
+
+2021-03-18 10:57:10,073 INFO {POS} {IP-DISABLED} valid: 192.168.66.1:7300@DEFAULT@DEFAULT_GROUP@@code-generator, region: unknown, msg: client timeout after 15000, last beat: 1616036214941
+
+2021-03-18 10:57:25,184 INFO DEFAULT_GROUP@@code-generator {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.66.1:7300:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 10:57:25,184 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@code-generator, ips: 
+
+2021-03-18 10:58:10,222 INFO DEFAULT_GROUP@@uaa-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.66.1:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 10:58:10,222 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uaa-server, ips: 192.168.66.1:8000_true,
+
+2021-03-18 11:19:58,943 INFO {POS} {IP-DISABLED} valid: 192.168.66.1:8000@DEFAULT@DEFAULT_GROUP@@uaa-server, region: unknown, msg: client timeout after 15000, last beat: 1616037579361
+
+2021-03-18 11:20:14,012 INFO DEFAULT_GROUP@@uaa-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.66.1:8000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 11:20:14,012 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uaa-server, ips: 
+
